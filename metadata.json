@@ -1,0 +1,6 @@
+{
+  "name": "Silent Distress Detection AI",
+  "description": "AI-assisted screening and linguistic analysis of emotional distress in text messages with multi-model NLP, explainability, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
